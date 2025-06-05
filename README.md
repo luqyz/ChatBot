@@ -23,6 +23,33 @@ A **rule-based chatbot** built using **spaCy** to assist users with frequently a
 | Contact      | phone, email          | "How can I contact UKM?"                            |
 | Goodbye      | bye, later            | "Thanks, bye!"                                      |
 
+## 📈 Evaluation Metrics
+After the chat session, the bot provides:
+
+Total queries
+
+Correct response count
+
+Unknown query rate
+
+Average response time
+
+User feedback (yes/no) is collected after each response to help assess chatbot effectiveness.
+
+## 🔗 Useful Links
+UKM Official Portal
+
+UKM Admission Info
+
+UKM Library
+
+UKM Contact Directory
+
+## 🛠 Technologies Used
+Python
+
+spaCy (Natural Language Processing)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -34,3 +61,6 @@ A **rule-based chatbot** built using **spaCy** to assist users with frequently a
 ```bash
 pip install spacy
 python -m spacy download en_core_web_sm
+
+
+
